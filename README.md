@@ -19,7 +19,7 @@ Puedes ver el sitio web directamente abriendo `index.html` en tu navegador.
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request en [GitHub](https://github.com/tu-usuario/springtime-in-michigan).
+Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request en [GitHub](https://github.com/jdasilva221100/springtime-in-michigan).
 
 ## Licencia
 
